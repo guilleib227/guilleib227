@@ -15,49 +15,43 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- # <a href="https://www.linkedin.com/in/ashwanisng/">Ashwani Kumar Singh</a> :smiley:
+ # <a href="https://www.linkedin.com/in/gismodesbulnes/">Guillermo Ismodes Bulnes</a> :smiley:
  
- <a href="https://twitter.com/ashwanisng">
-  <img align="left" alt="Ashwani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+ <a href="https://twitter.com/gismodes227">
+  <img align="left" alt="Guille's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/ashwanisng">
-  <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/gismodesbulnes/">
+  <img align="left" alt="Guillermo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/ashwanisng">
-  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/guilleib227">
+  <img align="left" alt="Guillermo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/ashwanisng">
-  <img align="left" alt="Ashwani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/guilleib20/">
+  <img align="left" alt="Guillermo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ashwani1406">
+<!--a href="https://www.facebook.com/ashwani1406">
   <img align="left" alt="Ashwani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://medium.com/@ashwanisng">
   <img align="left" alt="Ashwani's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+</a-->
 
 <br/>
 <br/>
 
-Contributer at Student Code-in | Contributer at PClub Summer Of Code | Data Science | Machine Learning | Deep Learning | Android Development | Java | Python | Competitive Programming
+| Data Science | Machine Learning | Deep Learning | Java Scrip | Java | Python |
 
-## About :sunglasses:
-B.tech 3rd year Computer Science student. Currently working as a Contributor in Open Source organization Student Code-in and PClub Summer Of Code. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis.
+## Sobre Mi [About] :sunglasses:
+- Ingeniría en Información y Control de Gestión [Information Engineering and Bussines Controller]
+- Especializacion en Digitalizacion y Big Data
+<!--Currently working as a Contributor in Open Source organization Student Code-in and PClub Summer Of Code. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis. -->
 
-## Communities :dancers:
-- Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
-- Contributer at [PClub Summer Of Code](http://pclubsummerofcode.in/) ( ( An Open Source organization.)
-- Campus Ambassador at [HackerEarth](https://www.hackerearth.com/challenges/)
-
-## Technologies :fire:
+## Tecnologías [Technologies] :fire:
 - Data Analysis with **Python**.
 - Data Science.
-- Mobile application development using **Android (Java)**.
 - Python.
-- Java
-- Competitive Programming.
-- Machine Learning
-- Deep Learning
+- Machine Learning.
+- Deep Learning.
 
 **Languages and Tools:**  
 
