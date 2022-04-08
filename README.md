@@ -27,8 +27,10 @@
 - Especializacion en Digitalizacion y Big Data.
 - Web Development.
 <!--Currently working as a Contributor in Open Source organization Student Code-in and PClub Summer Of Code. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development and Data Analysis. -->
+<br/>
+<br/>
 
-## Tecnologías [Technologies] :fire: ##
+# Tecnologías [Technologies] :fire:
 - Python.
 - Data Analysis with **Python**.
 - Data Science with **Python**.
@@ -36,7 +38,8 @@
 - Deep Learning.
 <br/>
 <br/>
-##  Languages and Tools: ##
+
+#  Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
@@ -51,7 +54,7 @@
 <!--code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code-->
 <!--code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code-->  
 
-##  Contact Me :speech_balloon:
+# Contact Me :speech_balloon:
 [![Twitter Badge](https://img.shields.io/badge/-@guille227-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gismodes227)](https://twitter.com/gismodes227) [![Linkedin Badge](https://img.shields.io/badge/-gismodesbulnes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gismodesbulnes/)](https://www.linkedin.com/in/gismodesbulnes/) [![Gmail Badge](https://img.shields.io/badge/-guillermo.ismodes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guillermo.ismodes@gmail.com)](mailto:guillermo.ismodes@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@guilleib20-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/guilleib20/)](https://www.instagram.com/guilleib20/)
 
 <p align="center"> 
