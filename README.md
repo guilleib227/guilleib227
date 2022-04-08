@@ -53,33 +53,18 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-<a href="https://github.com/ashwanisng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisng&theme=radical&hide=glsl,python" />
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashwanisng&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
-
-
-<a href="https://github.com/ashwanisng/Covid-19-Data-Analysis">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwanisng&repo=Covid-19-Data-Analysis&theme=radical" />
-</a>    
-
+  
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@guille227-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gismodes227)](https://twitter.com/gismodes227) [![Linkedin Badge](https://img.shields.io/badge/-ashwanisng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashwanisng/)](https://www.linkedin.com/in/ashwanisng/) [![Gmail Badge](https://img.shields.io/badge/-ashwanicena5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashwanicena5@gmail.com)](mailto:ashwanicena5@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@ashwanisng-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/ashwanisng/)](https://www.instagram.com/ashwanisng/)
+[![Twitter Badge](https://img.shields.io/badge/-@guille227-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gismodes227)](https://twitter.com/gismodes227) [![Linkedin Badge](https://img.shields.io/badge/-gismodesbulnes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gismodesbulnes/)](https://www.linkedin.com/in/gismodesbulnes/) [![Gmail Badge](https://img.shields.io/badge/-guillermo.ismodes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guillermo.ismodes@gmail.com)](mailto:guillermo.ismodes@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@guilleib20-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/guilleib20/)](https://www.instagram.com/guilleib20/)
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
-</p>
 
+</p>
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+a Codear!
 
 </div>
 
