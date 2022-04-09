@@ -55,6 +55,7 @@
 <!--code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code-->  
 
 # Contact Me :speech_balloon:
+Redes sociales y de contacto personales
 [![Twitter Badge](https://img.shields.io/badge/-@guille227-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gismodes227)](https://twitter.com/gismodes227) [![Linkedin Badge](https://img.shields.io/badge/-gismodesbulnes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gismodesbulnes/)](https://www.linkedin.com/in/gismodesbulnes/) [![Gmail Badge](https://img.shields.io/badge/-guillermo.ismodes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guillermo.ismodes@gmail.com)](mailto:guillermo.ismodes@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@guilleib20-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/guilleib20/)](https://www.instagram.com/guilleib20/)
 
 <p align="center"> 
