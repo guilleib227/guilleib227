@@ -16,13 +16,13 @@
 </a>
 <!--a href="https://www.facebook.com/">
   <img align="left" alt="Guillermo's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a-->
 <br/>
 <br/>
 
 | Data Science | Machine Learning | Deep Learning | Java Scrip | Java | Python |
 
-## Sobre Mi [About] :sunglasses: ##
+# Sobre Mi [About] :sunglasses:
 - Ingeniría en Información y Control de Gestión [Information Engineering and Bussines Controller].
 - Especializacion en Digitalizacion y Big Data.
 - Web Development.
@@ -39,7 +39,7 @@
 <br/>
 <br/>
 
-#  Languages and Tools:
+#  Lenguajes y Herramientas [Languages and Tools]:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
